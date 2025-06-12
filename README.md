@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InsideProxy
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning Python an basics
+- 🌱 I’m currently learning Unity basics
 - 💞️ I’m looking to collaborate on beginner activities.
 - 📫 How to reach me: eljuegodelaberinto@gmail.com
 
